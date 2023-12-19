@@ -1,0 +1,482 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Brady Kelly",
+      "label": "Expert Software Engineer - Specialist in C# and .NET heavily invested in information integration and automation systems",
+      "image": "",
+      "email": "brady@bradykelly.net",
+      "phone": "060 718 4673",
+      "url": "",
+      "summary": "With 25 years of programming experience, I am a Senior Software Engineer available to help your development team. I specialize in the C# and .NET environment, with strong full-stack experience in ASP.NET, Angular, and React.\n\nI also have skills and certifications in Technical Writing, Project Management, SQL Server, AWS, Python, and Azure, which enable me to succeed on a wide variety of project types and technology stacks. I am passionate about software quality and standards, and this enables me to design and implement reliable software solutions that meet the needs and expectations of the clients and users.",
+      "location": {
+        "countryCode": "US",
+        "address": "South Africa"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "bradykelly",
+          "url": "https://www.linkedin.com/in/bradykelly/"
+        },
+        {
+          "network": "Twitter",
+          "username": "bradykelly",
+          "url": "https://twitter.com/bradykelly"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Erisia Automation and Integration",
+        "position": "Principal Architect",
+        "startDate": "2023-10-31",
+        "endDate": "",
+        "highlights": [],
+        "url": "",
+        "location": "South Africa"
+      },
+      {
+        "name": "LexisNexis South Africa",
+        "position": "Senior Software Engineer",
+        "startDate": "2022-09-30",
+        "endDate": "2023-09-30",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/lexisnexis-south-africa/",
+        "location": "South Africa"
+      },
+      {
+        "name": "XI Systems",
+        "position": "Senior Developer",
+        "startDate": "2018-08-31",
+        "endDate": "2022-09-30",
+        "highlights": [],
+        "url": "",
+        "location": "Midrand, SA"
+      },
+      {
+        "name": "Brady Kelly",
+        "position": "Freelance Developer",
+        "startDate": "2016-04-30",
+        "endDate": "2022-09-30",
+        "highlights": [],
+        "url": "",
+        "location": "Randburg, SA"
+      },
+      {
+        "name": "Quality Assured I.T. Solutions",
+        "position": "Contracting Software Developer",
+        "startDate": "2015-08-31",
+        "endDate": "2016-04-30",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/quality-assured-it-solutions/",
+        "location": "Fourways"
+      },
+      {
+        "name": "G4S Secure Solutions (Africa)",
+        "position": "Senior C# Developer",
+        "startDate": "2013-06-30",
+        "endDate": "2014-07-31",
+        "highlights": [],
+        "summary": "Busy on a huge project to convert a large Delphi system with thousands of users to .NET, stage by stage without interrupting service.",
+        "url": "https://www.linkedin.com/company/g4s/",
+        "location": "Centurion"
+      },
+      {
+        "name": "Erisia Web Development",
+        "position": "Owner",
+        "startDate": "2009-07-31",
+        "endDate": "2013-05-31",
+        "highlights": [],
+        "summary": "I am a solutions architect and developer, and very passionate about what I do.  I develop web and desktop applications mainly for small businesses, using ASP.NET, MVC, C#, and SQL Server.",
+        "url": ""
+      },
+      {
+        "name": "Chase Software",
+        "position": "Developer",
+        "startDate": "2006-09-30",
+        "endDate": "2009-07-31",
+        "highlights": [],
+        "summary": "Development and maintenance on an advertising management system, using SQL Server 2005, ASP.NET, and ExtJS.",
+        "url": ""
+      },
+      {
+        "name": "FNB Homeloans",
+        "position": "Developer",
+        "startDate": "2004-12-31",
+        "endDate": "2006-12-31",
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "name": "I-Com IT",
+        "position": "Developer",
+        "startDate": "2003-12-31",
+        "endDate": "2005-12-31",
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "name": "Comcorp Online",
+        "position": "Developer",
+        "startDate": "2000-12-31",
+        "endDate": "2003-12-31",
+        "highlights": [],
+        "summary": "Design and development of a national scale client-server real estate listing and management system, I designed and coded it in VB6, and mentored several juniors into performing the same duties as me in the system. Technical skills included SQL Server design and admin (as far back as v7).",
+        "url": ""
+      },
+      {
+        "name": "Siemens",
+        "position": "Consulting Specialist",
+        "startDate": "1997-12-31",
+        "endDate": "1999-12-31",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/siemens/",
+        "location": "South Africa"
+      },
+      {
+        "name": "SA Air Force",
+        "position": "Technician",
+        "startDate": "1988-12-31",
+        "endDate": "1996-12-31",
+        "highlights": [],
+        "summary": "Telecommunications technician with roles as radio operator, senior telecommunicator, LAN technician",
+        "url": "https://www.linkedin.com/company/sa-air-force/",
+        "location": "South Africa"
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "University of South Africa/Universiteit van Suid-Afrika",
+        "area": "Computer Science, Information Systems, Databases",
+        "studyType": "Diploma Datametrics",
+        "startDate": "1994-03-31",
+        "endDate": "1997-04-30",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Norkem Park High",
+        "area": "Technical",
+        "studyType": "Matric",
+        "startDate": "1983-12-31",
+        "endDate": "1987-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "SAP ABAP/4",
+        "issuer": "SAP"
+      },
+      {
+        "name": "Project Management: The Basics for Success",
+        "issuer": "Coursera Verified Certificates",
+        "startDate": "2015-09-30",
+        "url": "https://www.coursera.org/account/accomplishments/verify/LGE3QC6PBFXJ"
+      },
+      {
+        "name": "C# and .NET",
+        "issuer": "TestDome",
+        "startDate": "2022-03-31",
+        "url": "https://app.testdome.com/cert/01a5154f82e84447aef40212f5e8e9c1"
+      },
+      {
+        "name": "React.js Essential Training",
+        "issuer": "LinkedIn",
+        "startDate": "2022-04-30",
+        "url": "https://www.linkedin.com/learning/certificates/3723ebd9291d1be6f2022bbd3aff2bb8fe9c42841f8d88fce1db780c50feaa08"
+      },
+      {
+        "name": "Azure Essential Training for Developers",
+        "issuer": "LinkedIn",
+        "startDate": "2022-04-30",
+        "url": "https://www.linkedin.com/learning/certificates/2b765c0d395179cd6c3148dbfc6df5309e87f8a8cfc59767fcc593180b429bf0"
+      },
+      {
+        "name": "Security Journey: White Belt",
+        "issuer": "Security Journey",
+        "startDate": "2022-10-31",
+        "url": "https://lnlp.securityjourney.com/certificates/6f8220d3-9a40-4b10-88fc-8c2dbde854d3.pdf"
+      }
+    ],
+    "publications": [
+      {
+        "name": "CodeGuru",
+        "publisher": "Online",
+        "releaseDate": "",
+        "summary": "",
+        "url": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Office 365",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Analytical Skills",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microservices",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Customer Requirements",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Agile Methodologies",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cloud Applications",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "CSS",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Software Architecture",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DevOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Angular",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Scrum",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "C#",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Software Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "ASP.NET MVC",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Web Services",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Middleware",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Attention to Detail",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Writing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Front-End Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cloud Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "WPF",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Skill Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": ".NET",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Database Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Back-End Web Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Debugging",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SQL Database Administration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Requirements Analysis",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Web Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "HTML",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Coding Standards",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Software Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "T-SQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SQL Server",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "React",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "ASP.NET",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Communication",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "React.js",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "LINQ",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Teams",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Python (Programming Language)",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "fluency": "Professional Working",
+        "language": "Afrikaans"
+      },
+      {
+        "fluency": "Native Speaker",
+        "language": "English"
+      }
+    ],
+    "interests": [],
+    "references": [
+      {
+        "name": "Robin Martin",
+        "reference": "It was a pleasure to have Brady take the project to completion with minimal input and guidance from the client."
+      },
+      {
+        "name": "Suhayl Hendricks",
+        "reference": "Brady is hard working professional Developer who delivers the product in time. He is one of the best Developers I have ever known; he is always focused on the project targets and very open-minded. He takes pride in his work and has an in-depth understanding of the technology and its applications. I would highly recommend Brady"
+      }
+    ],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
