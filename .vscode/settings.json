@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "./resumes/json-files/*resume.json"
+            ],
+            "url": "/home/brady/resources/resume/json-resume-schema.json"
+        }
+    ]
+}
