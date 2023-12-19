@@ -1,5 +1,8 @@
 {
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "meta": { 
+        "theme": "elegant" 
+    },
     "basics": {
       "name": "Brady Kelly",
       "label": "Expert Software Engineer - Specialist in C# and .NET heavily invested in information integration and automation systems",
