@@ -27,38 +27,65 @@
     },
     "work": [
       {
-        "name": "Erisia Automation and Integration",
-        "position": "Principal Architect",
-        "startDate": "2023-10-31",
-        "endDate": "",
-        "highlights": [],
-        "url": "",
-        "location": "South Africa"
-      },
-      {
         "name": "LexisNexis South Africa",
         "position": "Senior Software Engineer",
         "startDate": "2022-09-30",
         "endDate": "2023-09-30",
-        "highlights": [],
-        "url": "https://www.linkedin.com/company/lexisnexis-south-africa/",
-        "location": "South Africa"
+        "highlights": [
+          "Angular",
+          "React",
+          "TypeScript",
+          "Office 365 Addins",
+          "C#",
+          "ASP.NET",
+          "REST APIs",
+          "Microservices",
+          "Microfrontends",
+          "AWS",
+          "Azure DevOps",
+          "Agile",
+          "Security Journey: White Belt"
+        ],
+        "url": "https://www.lexisnexis.co.za/",
+        "location": "Cape Town, South Africa"
       },
       {
         "name": "XI Systems",
         "position": "Senior Developer",
         "startDate": "2018-08-31",
         "endDate": "2022-09-30",
-        "highlights": [],
-        "url": "",
+        "highlights": [
+          "ASP.NET MVC",
+          "Oracle 12c",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Git",
+          "Assist with reducing 20GB Git repo",
+          "Jira",
+          "BitBucket",
+          "Scrum"
+        ],
+        "url": "https://xisytems.net",
         "location": "Midrand, SA"
       },
       {
         "name": "Brady Kelly",
         "position": "Freelance Developer",
         "startDate": "2016-04-30",
-        "endDate": "2022-09-30",
-        "highlights": [],
+        "endDate": "2018-06-30",
+        "highlights": [
+          "WCF",
+          "SOAP",
+          "REST APIs",
+          "GoCanvas API (https://www.gocanvas.com)",
+          "Private Property API (https://www.privateproperty.co.za)",
+          "Complex integration of two APIs with very different data models and information",
+          "No project repo accessible due to NDA",
+          "C#",
+          ".NET",
+          "https://www.strategico.co.za/"
+        ],
         "url": "",
         "location": "Randburg, SA"
       },
