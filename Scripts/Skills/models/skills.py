@@ -2,7 +2,7 @@
 import json
 
 
-class Skill(json_resume):
+class Skill:
     def __init__(self, name, level, keywords):
         self.name = name
         self.level = level
@@ -10,10 +10,9 @@ class Skill(json_resume):
 
 
 class Skills:
-    def __init__(self, skills):
+    def __init__(self, skills_json):
+        skills = from_json(skills_json)
         self.skills = [Skill(**skill) for skill in skills]
 
-    @classmethod
-    def from_json(cls, json_str):
-        data = json.loads(json_str)
-        return cls(data['skills'])
+
+
