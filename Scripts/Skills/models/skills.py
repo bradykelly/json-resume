@@ -1,5 +1,4 @@
-# Represents the `skills` object in a resume.json format json file
-import json
+from helpers.json_serializer import deserialize_json
 
 
 class Skill:
@@ -11,8 +10,6 @@ class Skill:
 
 class Skills:
     def __init__(self, skills_json):
-        skills = from_json(skills_json)
+        skills = deserialize_json(skills_json)
         self.skills = [Skill(**skill) for skill in skills]
-
-
 
