@@ -22,6 +22,11 @@
           "network": "Twitter",
           "username": "bradykelly",
           "url": "https://twitter.com/bradykelly"
+        },
+        {
+          "network": "Medium",
+          "username": "@bradykelly",
+          "url": "bradykelly.medium.com"
         }
       ]
     },
@@ -31,6 +36,7 @@
         "position": "Senior Software Engineer",
         "startDate": "2022-09-30",
         "endDate": "2023-09-30",
+        "summary": "Worked mainly on a flagship product called Lexis+&reg;. This was being upgraded to an arhcitecture made up of microfrontends implemented in Angular with Backends for Frontends (BFF) in .NET 4.7 and .NET 6. These connected to a cloud network of microservices and legacy ASP.NET MVC applications.",
         "highlights": [
           "Angular",
           "React",
@@ -53,7 +59,8 @@
         "name": "XI Systems",
         "position": "Senior Developer",
         "startDate": "2018-08-31",
-        "endDate": "2022-09-30",
+        "endDate": "2023-09-30",
+        "summary": "Senior developer on web version of a contractor project management system for South African National Roads Agency (SANRAL) implemented in ASP.NET MVC",
         "highlights": [
           "ASP.NET MVC",
           "Oracle 12c",
@@ -67,13 +74,14 @@
           "Scrum"
         ],
         "url": "https://xisytems.net",
-        "location": "Midrand, SA"
+        "location": "Midrand, South Africa"
       },
       {
         "name": "Brady Kelly",
         "position": "Freelance Developer",
         "startDate": "2016-04-30",
         "endDate": "2018-06-30",
+        "summary": "Two projects of note. The first was an integration between the GoCanvas mobile forms service API and the Private Property realty listings API. One API required a WCF client, and my data transfer between the two required extremely complex mapping between vastly different data structures and flows.\n\nThe other project was the backend for an online cashless betting system for golfers. The service has evolved but I implemented the first availability of the service. It is called PayCaddy (https://www.paycaddy.co.za)",
         "highlights": [
           "WCF",
           "SOAP",
@@ -96,7 +104,7 @@
         "endDate": "2016-04-30",
         "highlights": [],
         "url": "https://www.linkedin.com/company/quality-assured-it-solutions/",
-        "location": "Fourways"
+        "location": "Sandton, South Africa"
       },
       {
         "name": "G4S Secure Solutions (Africa)",
@@ -104,9 +112,9 @@
         "startDate": "2013-06-30",
         "endDate": "2014-07-31",
         "highlights": [],
-        "summary": "Busy on a huge project to convert a large Delphi system with thousands of users to .NET, stage by stage without interrupting service.",
+        "summary": "Worked on a large project to convert a Delphi system with thousands of users to .NET, stage by stage without interrupting service.",
         "url": "https://www.linkedin.com/company/g4s/",
-        "location": "Centurion"
+        "location": "Centurion, South Africa"
       },
       {
         "name": "Erisia Web Development",
