@@ -2,14 +2,14 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
       "name": "Brady Kelly",
-      "label": "Expert Software Engineer - Specialist in C# and .NET heavily invested in information integration and automation systems",
+      "label": "Senior Software Engineer - Specialist in C# and ASP.NET.",
       "image": "",
       "email": "brady@bradykelly.net",
-      "phone": "060 718 4673",
+      "phone": "+27 60 718 4673",
       "url": "http://bradykelly.info",
-      "summary": "With 25 years of programming experience, I am a Senior Software Engineer available to help your development team. I specialize in the C# and .NET environment, with strong full-stack experience in ASP.NET, Angular, and React.\n\nI also have skills and certifications in Technical Writing, Project Management, SQL Server, AWS, Python, and Azure, which enable me to succeed on a wide variety of project types and technology stacks. I am passionate about software quality and standards, and this enables me to design and implement reliable software solutions that meet the needs and expectations of the clients and users.",
+      "summary": "I am an experienced software engineer with over 25 years in the industry. My career has been dedicated to the development and management of a wide range of software applications and information services. Of those 25 years, 20 have been focused on the Microsoft .NET platform, with C# and ASP.NET as my core skills, showcasing my deep specialization in these technologies.\n\nMy primary strength lies in analyzing and architecting software solutions that precisely meet client and user expectations. I possess a broad expertise that includes a range of programming languages, quality control, and application debugging. Additionally, my skills extend to meticulous requirements analysis, system design, and technical writing, ensuring comprehensive coverage of all aspects of software engineering.\n\nFurthermore, I am deeply invested in the fields of automation and integration platforms and tools. This interest is actively applied to enhance various facets of software engineering and quality control. Constantly seeking innovative ways to improve efficiency and effectiveness, I stay at the forefront of technological advancements, striving to integrate these cutting-edge approaches into my software development processes.",       
       "location": {
-        "countryCode": "US",
+        "countryCode": "ZA",
         "address": "South Africa"
       },
       "profiles": [
