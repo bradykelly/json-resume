@@ -6,7 +6,7 @@
     "image": "",
     "email": "brady@bradykelly.net",
     "phone": "+27 60 718 4673",
-    "url": "http://bradykelly.info",
+    "url": "http://bradykelly.info/cv",
     "summary": "I am an experienced software engineer with over 25 years in the industry. My career has been dedicated to the development and management of a wide range of software applications and information services. Of those 25 years, 20 have been focused on the Microsoft .NET platform, with C# and ASP.NET as my core skills, showcasing my deep specialization in these technologies.\n\nMy primary strength lies in analyzing and architecting software solutions that precisely meet client and user expectations. I possess a broad expertise that includes a range of programming languages, quality control, and application debugging. Additionally, my skills extend to meticulous requirements analysis, system design, and technical writing, ensuring comprehensive coverage of all aspects of software engineering.\n\nFurthermore, I am deeply invested in the fields of automation and integration platforms and tools. This interest is actively applied to enhance various facets of software engineering and quality control. Constantly seeking innovative ways to improve efficiency and effectiveness, I stay at the forefront of technological advancements, striving to integrate these cutting-edge approaches into my software development processes.",
     "location": {
       "countryCode": "ZA",
@@ -26,7 +26,7 @@
       {
         "network": "Medium",
         "username": "@bradykelly",
-        "url": "bradykelly.medium.com"
+        "url": "https://bradykelly.medium.com"
       }
     ]
   },
@@ -38,21 +38,13 @@
       "endDate": "2023-09-30",
       "summary": "Contributed to the development of Lexis+®, our flagship product, during its transition to a distributed architecture comprising microservices and microfrontends. Played a key role in implementing frontends primarily using Angular, occasionally incorporating React, alongside .NET Framework or .NET Core BFFs (Backends for Frontends). These components interfaced with a cloud-based network of microservices and pre-existing ASP.NET MVC applications, supporting seamless system integration and scalability.",
       "highlights": [
-        "Angular",
-        "React",
-        "TypeScript",
-        "Office 365 Addins",
-        "C#",
-        "ASP.NET",
-        "REST APIs",
-        "Microservices",
-        "Microfrontends",
-        "AWS",
-        "Azure DevOps",
-        "Agile",
-        "Security Journey: White Belt"
+        "Getting adfvanced Angular experience",
+        "Introduced to microfrontend arhitecture",
+        "Advanced use of huge numbers of .NET APIs",
+        "Practical Microservices Experience",
+        "Earned Security Journey: White Belt"
       ],
-      "url": "https://www.lexisnexis.co.za/",
+      "url": "http://bradykelly.info/lexisnexis",
       "location": "Cape Town, South Africa"
     },
     {
@@ -60,20 +52,14 @@
       "position": "Senior Developer",
       "startDate": "2018-08-31",
       "endDate": "2023-09-30",
-      "summary": "Contributed as a senior developer to the web version of a contractor project management system for the South African National Roads Agency (SANRAL), developed using ASP.NET MVC. Assisted in efforts to reduce an 18GB Git repo by eliminating numerous non-source files like PDF documents and software binaries.",
+      "summary": "Contributed as a senior developer to the web version of a contractor project management system for the South African National Roads Agency (SANRAL), developed using ASP.NET MVC. Assisted in efforts to reduce an 18GB Git repo by eliminating numerous non-source files like PDF documents and software binaries. Also helped solve various Git problems that the other developers could not solve.",
       "highlights": [
-        "ASP.NET MVC",
-        "Oracle 12c",
-        "JavaScript",
-        "jQuery",
-        "CSS",
-        "Git",
-        "Assist with reducing 20GB Git repo",
-        "Jira",
-        "BitBucket",
-        "Scrum"
+        "Design and oversight of modular areas in a large ASP.NET monolith.",
+        "Experince in Oracle 12c",
+        "Solved several Git problems DevOps and other engineers were not able to",
+        "Assist with reducing 20GB Git repo"
       ],
-      "url": "https://xisytems.net",
+      "url": "http://bradykelly.info/xi",
       "location": "Midrand, South Africa"
     },
     {
@@ -81,20 +67,17 @@
       "position": "Freelance Developer",
       "startDate": "2016-04-30",
       "endDate": "2018-06-30",
-      "summary": "Two projects of note. The first was an integration between the GoCanvas mobile forms service API and the Private Property realty listings API. One API required a WCF client, and my data transfer between the two required extremely complex mapping between vastly different data structures and flows.\n\nThe other project was the backend for an online cashless betting system for golfers. The service has evolved but I implemented the first availability of the service. It is called PayCaddy (https://www.paycaddy.co.za)",
+      "summary": "Involved in two notable projects. Firstly, facilitated the  Tasked with developing a WCF client for one API, I managed complex data transfer between the two, necessitating intricate mapping between disparate data structures and flows. Secondly, contributed to the backend development of an online cashless betting system tailored for golfers. While the service has since evolved, I played a pivotal role in implementing its initial availability. The system, known as PayCaddy, can be accessed at https://www.paycaddy.co.za.",
       "highlights": [
-        "WCF",
-        "SOAP",
-        "REST APIs",
+        "Created integration between GoCanvas mobile forms API and Private Property listings API.",
         "GoCanvas API (https://www.gocanvas.com)",
         "Private Property API (https://www.privateproperty.co.za)",
-        "Complex integration of two APIs with very different data models and information",
+        "Extensive use of Windows Communication Foundation (WCF)",
         "No project repo accessible due to NDA",
-        "C#",
-        ".NET",
-        "https://www.strategico.co.za/"
+        "Designed complex mapping system to convert collections of properties to realty listing objects"
+
       ],
-      "url": "http://bradykelly.info",
+      "url": "http://bradykelly.info/strategico",
       "location": "Randburg, SA"
     },
     {
@@ -102,8 +85,11 @@
       "position": "Contracting Software Developer",
       "startDate": "2015-08-31",
       "endDate": "2016-04-30",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/quality-assured-it-solutions/",
+      "summary": "Engaged in maintenance work on a localised fork of the Marval ITSM (IT Service Management) service desk application in use at various companies in South Africa and the main system in the rest of the world. The system was developed in C# and ASP.NET WebForms.",
+      "highlights": [
+        "Experience with Marval ITSM"
+      ],
+      "url": "http://bradykelly.info/qaits",
       "location": "Sandton, South Africa"
     },
     {
@@ -111,9 +97,12 @@
       "position": "Senior C# Developer",
       "startDate": "2013-06-30",
       "endDate": "2014-07-31",
-      "highlights": [],
-      "summary": "Worked on a large project to convert a Delphi system with thousands of users to .NET, stage by stage without interrupting service.",
-      "url": "https://www.linkedin.com/company/g4s/",
+      "summary": "Contributed to a significant project aimed at migrating a Delphi system, utilized by thousands of users, to the .NET framework. Executed the migration in stages, ensuring uninterrupted service throughout the process.",
+      "highlights": [
+        "Delphi to .NET migration",
+        "Prism MVVM Framework"
+      ],
+      "url": "http://bradykelly.info/g4s",
       "location": "Centurion, South Africa"
     },
     {
@@ -121,51 +110,70 @@
       "position": "Owner",
       "startDate": "2009-07-31",
       "endDate": "2013-05-31",
-      "highlights": [],
-      "summary": "I am a solutions architect and developer, and very passionate about what I do.  I develop web and desktop applications mainly for small businesses, using ASP.NET, MVC, C#, and SQL Server.",
-      "url": "http://bradykelly.info"
+      "highlights": [
+        "Learning Management Systems",
+        "Proficiency testing applications for tradesmen miners"
+      ],
+      "summary": "I was a solutions architect and developer, deeply passionate about my work. I developed web and desktop applications primarily for small businesses, utilizing ASP.NET, MVC, C#, and SQL Server.  Additionally, I had regular involvement in projects for a client working with various mining houses, which provided me with valuable exposure to mining information and control systems.",
+      "url": "http://bradykelly.info/freelance-one"
     },
     {
       "name": "Chase Software",
       "position": "Developer",
       "startDate": "2006-09-30",
       "endDate": "2009-07-31",
-      "highlights": [],
-      "summary": "Development and maintenance on an advertising management system, using SQL Server 2005, ASP.NET, and ExtJS.",
-      "url": "http://bradykelly.info"
+      "highlights": [
+          "extJS UI Framework"
+      ],
+      "summary": "I performed development and maintenance tasks on an advertising management system, which was utilized by many leading ad agencies in South Africa. The system was built using SQL Server 2005, ASP.NET, and ExtJS.",
+      "url": "http://bradykelly.info/chase"
     },
     {
       "name": "FNB Homeloans",
       "position": "Developer",
       "startDate": "2004-12-31",
       "endDate": "2006-12-31",
-      "highlights": [],
-      "url": "http://bradykelly.info"
+      "highlights": [
+        "Lead for first national, online realty listing systen in South Africa: DealTRak",
+        "Lead for first national, online mortgage system: BondTRak",
+        "Single home loan application submitted to BondTrak sent to large group of banks and tracked."
+      ],
+      "url": "http://bradykelly.info/fnb"
     },
     {
       "name": "I-Com IT",
       "position": "Developer",
       "startDate": "2003-12-31",
       "endDate": "2005-12-31",
-      "highlights": [],
-      "url": "http://bradykelly.info"
+      "highlights": [
+        "Senior for second national, online realty listing systen for Jigsaw Group of realy franchisors"
+      ],
+      "url": "http://bradykelly.info/icom-it"
     },
     {
       "name": "Comcorp Online",
       "position": "Developer",
       "startDate": "2000-12-31",
       "endDate": "2003-12-31",
-      "highlights": [],
+      "highlights": [
+        "VB6 client server application",
+        "Upgrade Access database to SQL Server 7",
+        "ASP Classic",
+        "First client requests to web server from a client app - before Web APIs"
+      ],
       "summary": "Design and development of a national scale client-server real estate listing and management system, I designed and coded it in VB6, and mentored several juniors into performing the same duties as me in the system. Technical skills included SQL Server design and admin (as far back as v7).",
-      "url": "http://bradykelly.info"
+      "url": "http://bradykelly.info/comcorp"
     },
     {
       "name": "Siemens",
       "position": "Consulting Specialist",
       "startDate": "1997-12-31",
       "endDate": "1999-12-31",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/siemens/",
+      "highlights": [
+        "Deep understanding of how major SAP modules work together",
+        "Learned much about ERP systems"
+      ],
+      "url": "http://bradykelly.info/Siemens",
       "location": "South Africa"
     },
     {
@@ -173,13 +181,16 @@
       "position": "Technician",
       "startDate": "1988-12-31",
       "endDate": "1996-12-31",
-      "highlights": [],
+      "highlights": [
+        "Passed radio technician trade test after 3 years",
+        "Worked with cutting edge communications networks and software",
+        "Military training strenghtened my character"
+      ],
       "summary": "Telecommunications technician with roles as radio operator, senior telecommunicator, LAN technician",
-      "url": "https://www.linkedin.com/company/sa-air-force/",
+      "url": "http://bradykelly.info/saaf",
       "location": "South Africa"
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of South Africa/Universiteit van Suid-Afrika",
@@ -188,7 +199,11 @@
       "startDate": "1994-03-31",
       "endDate": "1997-04-30",
       "score": "",
-      "courses": []
+      "courses": [
+        "Computer Science",
+        "Relational Database Theory",
+        "Algorithms and Data Structures"
+      ]
     },
     {
       "institution": "Norkem Park High",
@@ -197,13 +212,19 @@
       "startDate": "1983-12-31",
       "endDate": "1987-12-31",
       "score": "",
-      "courses": []
+      "courses": [
+        "Maths",
+        "Science",
+        "English",
+        "Afrikaans",
+        "Electrician Work",
+        "Technical Drawing"
+      ]
     }
   ],
-  "awards": [],
   "certificates": [
     {
-      "name": "SAP ABAP/4",
+      "name": "SAP ABAP/4 Development Workbench",
       "issuer": "SAP"
     },
     {
@@ -239,87 +260,87 @@
   ],
   "publications": [
     {
-      "name": "CodeGuru",
-      "publisher": "Online",
+      "name": "A jQuery UI-Based Date Picker for ASP.NET MVC 5",
+      "publisher": "OnCodeGuru",
       "releaseDate": "2018-01-01",
-      "summary": "",
-      "url": "http://bradykelly.info"
+      "url": "https://www.codeguru.com/dotnet/a-jquery-ui-based-date-picker-for-asp-net-mvc-5/"
+    },
+    {
+      "name": "Why shifting code QA left, all the way to the software engineer, is valuable to the software production process",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/bradykelly_activity-7117821387586637825-pwn4?utm_source=share&utm_medium=member_desktop",
+      "summary": "Reasons to apply more static code analysis tools on developers machines, integrated into the IDE, to block code smells before the CI/CD pipeline finds them"
     }
   ],
   "skills": [
     {
-      "name": "Office 365",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Analytical Skills",
-      "level": "",
+      "level": "Very good",
       "keywords": []
     },
     {
       "name": "Microservices",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "Customer Requirements",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "JavaScript",
-      "level": "",
+      "level": "Profcient",
       "keywords": []
     },
     {
       "name": "Git",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Agile Methodologies",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Cloud Applications",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "CSS",
-      "level": "",
+      "level": "Proficient",
       "keywords": []
     },
     {
       "name": "Software Architecture",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Programming",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Microsoft Azure",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "DevOps",
-      "level": "",
+      "level": "Fair",
       "keywords": []
     },
     {
       "name": "Angular",
-      "level": "",
+      "level": "Profcient",
       "keywords": []
     },
     {
       "name": "Scrum",
-      "level": "",
+      "level": "Proficent",
       "keywords": []
     },
     {
@@ -329,192 +350,162 @@
     },
     {
       "name": "C#",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Software Design",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "ASP.NET MVC",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Web Services",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Middleware",
-      "level": "",
+      "level": "Profcient",
       "keywords": []
     },
     {
       "name": "Attention to Detail",
-      "level": "",
+      "level": "Outstanding",
       "keywords": []
     },
     {
       "name": "Writing",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Front-End Development",
-      "level": "",
+      "level": "Proficnet",
       "keywords": []
     },
     {
       "name": "Cloud Development",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "WPF",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Skill Development",
-      "level": "",
+      "level": "Profcient",
       "keywords": []
     },
     {
       "name": ".NET",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Database Design",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Back-End Web Development",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Debugging",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL Database Administration",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Amazon Web Services (AWS)",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "Requirements Analysis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Development",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "HTML",
-      "level": "",
+      "level": "Above average",
       "keywords": []
     },
     {
       "name": "Coding Standards",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "T-SQL",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "SQL Server",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "React",
-      "level": "",
+      "level": "Novice",
       "keywords": []
     },
     {
       "name": "ASP.NET",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Communication",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Microsoft SQL Server",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "React.js",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "LINQ",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Teams",
-      "level": "",
+      "level": "Excellent",
       "keywords": []
     },
     {
       "name": "Python (Programming Language)",
-      "level": "",
+      "level": "Proficient",
       "keywords": []
     }
-  ]
-},
-"languages": [
-  {
-    "fluency": "Professional Working",
-    "language": "Afrikaans"
-  },
-  {
-    "fluency": "Native Speaker",
-    "language": "English"
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "Afrikaans"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    }
+  ],
+  "interests": [
+    {
+    "Automation of business processes": "Self study and experimental hobby projects",
+    "Personal Knowledge Management Systems (PKMS)": "Incredible productivy enhancers",
+    "Low code / no code platforms": "Commercial services that offer pre-built compoents",
+    "Application integration": "Via standards and compliance"
+    }
+  ],
+  "references": [
+    {
+      "name": "Robin Martin",
+      "reference": "It was a pleasure to have Brady take the project to completion with minimal input and guidance from the client."
+    },
+    {
+      "name": "Suhayl Hendricks",
+      "reference": "Brady is hard working professional Developer who delivers the product in time. He is one of the best Developers I have ever known; he is always focused on the project targets and very open-minded. He takes pride in his work and has an in-depth understanding of the technology and its applications. I would highly recommend Brady"
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "theme": "macchiato",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
-],
-"interests": [],
-"references": [
-  {
-    "name": "Robin Martin",
-    "reference": "It was a pleasure to have Brady take the project to completion with minimal input and guidance from the client."
-  },
-  {
-    "name": "Suhayl Hendricks",
-    "reference": "Brady is hard working professional Developer who delivers the product in time. He is one of the best Developers I have ever known; he is always focused on the project targets and very open-minded. He takes pride in his work and has an in-depth understanding of the technology and its applications. I would highly recommend Brady"
-  }
-],
-"projects": [],
-"meta": {
-  "theme": "macchiato",
-  "version": "v1.0.0",
-  "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-}
-}
 }
