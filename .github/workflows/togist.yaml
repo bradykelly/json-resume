@@ -1,0 +1,17 @@
+name: Publish to Gist
+run-name: ${{ github.actor}} is publishing to gist
+on: [push]
+jobs:
+  publish_to_gist:
+    runs-on: [ubuntu-latest, windows-latest]
+    steps:
+      - run: echo "The job was triggered by a ${{ github.event_name }} event."
+      - run: echo "The job is running on ${{ runner.os }}."
+      - run: echo "The name of the branch is ${{ github.ref }}."
+      - name: Deploy to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: from_gist_url
+          file_path: build/book.pdf
+          file_type: binary
