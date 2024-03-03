@@ -1,7 +1,7 @@
 # JSON Resume CV Web Project
 
-To start with this has only one active file, `resume.json`. which will inially be hosted at [JSONResume.org](https://registry.jsonresume.org/bradykelly)
+This project really only has only one active file, `resume.json`, but it's schema file also plays a very important role. This data will inially be hosted at [JSONResume.org](https://registry.jsonresume.org/bradykelly)
 
-## Themes
+## Other projects
 
-First choice of theme in a big hurry: **macchiato**
+I have various other projects that reference this one such as my Astro portfolio.
