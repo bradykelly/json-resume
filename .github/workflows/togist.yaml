@@ -1,3 +1,4 @@
+# TODO - Finish workflow to publish to Gist
 name: Publish to Gist
 run-name: ${{ github.actor}} is publishing to gist
 on: [push]
@@ -11,7 +12,7 @@ jobs:
       - name: Deploy to Gist
         uses: exuanbo/actions-deploy-gist@v1
         with:
-          token: ${{ secrets.TOKEN }}
-          gist_id: from_gist_url
-          file_path: build/book.pdf
-          file_type: binary
+          token: ${{ secrets.togist }}
+          gist_id: resume.json
+          file_path: resume.json
+          file_type: json
